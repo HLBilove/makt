@@ -13,11 +13,9 @@ The requiring environment is as bellow:
 
 
 
-## Running AKT.
+## Running MAKT.
 Here are some examples for using TAKT model (on ASSISTments2009 and ASSISTments2017 datasets):
 ```
 python main.py --dataset assist2009 
 python main.py --dataset assist2017
 ```
-
-
