@@ -13,7 +13,7 @@ The requiring environment is as bellow:
 
 
 
-## Running MAKT.
+## Running
 Here are some examples for using TAKT model (on ASSISTments2009 and ASSISTments2017 datasets):
 ```
 python main.py --dataset assist2009 
